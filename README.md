@@ -1,10 +1,10 @@
 # Smart Bharat AI Assistant
 
-## Overview
+## Overview -
 
 Smart Bharat AI Assistant is an AI-powered digital assistant designed to support citizens by providing information, guidance, and assistance in multiple domains. The platform focuses on improving accessibility to services through an intuitive and user-friendly interface while supporting multilingual interactions.
 
-## Features
+## Features -
 
 * AI-powered conversational assistance
 * Multilingual communication support
@@ -12,7 +12,7 @@ Smart Bharat AI Assistant is an AI-powered digital assistant designed to support
 * Real-time interaction capabilities
 * Scalable architecture for future enhancements
 
-## Technology Stack
+## Technology Stack -
 
 * HTML, CSS, JavaScript / React.js
 * AI Integration: NLP and Machine Learning APIs
@@ -44,13 +44,13 @@ npm install
 npm start
 ```
 
-## Future Enhancements
+## Future Enhancements -
 
 * Voice-based interaction
 * Regional language expansion
 * Government service integrations
 
-## Contributors
+## Contributors -
 
 Developed as part of an innovation-focused project to enhance digital accessibility and citizen engagement through AI-driven solutions.
 
