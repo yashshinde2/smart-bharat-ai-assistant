@@ -50,7 +50,5 @@ npm start
 * Regional language expansion
 * Government service integrations
 
-## Contributors -
 
-Developed as part of an innovation-focused project to enhance digital accessibility and citizen engagement through AI-driven solutions.
 
